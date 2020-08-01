@@ -3,7 +3,7 @@
 I'm a recently graduated geologist (MSc) working on tools for characterizing
 brittle bedrock structures.
 
-<img align="right" src="imgs/kb11.png">
+<img align="right" src="https://github.com/nialov/nialov/blob/master/imgs/kb11.png">
 
 ### Projects
 

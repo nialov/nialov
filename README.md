@@ -3,6 +3,8 @@
 I'm a recently graduated geologist (MSc) working on tools for characterizing
 brittle bedrock structures.
 
+<img style="float: right;" src="imgs/kb11.png">
+
 ### Projects
 
 * [2D Fracture Analysis Toolkit for QGIS](https://github.com/nialov/fracture-analysis-kit-2d)

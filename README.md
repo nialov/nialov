@@ -11,6 +11,9 @@ brittle bedrock structures.
 
   * Analyses and visualizes geometrical and topological parameters of fracture
     networks.
+  * Note: Currently I've removed the QGIS plugin implementation due to too many
+    dependency conflicts. I will release a new version as a 'pure' Python
+    package.
 
 * [geotransform](https://github.com/nialov/geotransform)
 

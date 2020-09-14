@@ -22,6 +22,11 @@ brittle bedrock structures.
   * Transforms drillcore measurements (alpha, beta, gamma) into structural
     measurements.
 
+* [trace-validator](https://github.com/nialov/trace-validator)
+
+  * **Under development** and currently private.
+  * Validates two-dimensional fracture trace datasets.
+
 ---
 
 ## Languages and Tools

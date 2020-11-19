@@ -11,9 +11,9 @@ brittle bedrock structures.
 
   * Analyses and visualizes geometrical and topological parameters of fracture
     networks.
-  * Note: Currently I've removed the QGIS plugin implementation due to too many
-    dependency conflicts. I will release a new version as a 'pure' Python
-    package.
+  * Note: Currently I've removed the QGIS plugin implementation in a new
+    version due to too many dependency conflicts. I will release a new version
+    as a 'pure' Python package (see **fractopo** below.)
 
 * [geotransform](https://github.com/nialov/geotransform)
 
@@ -25,10 +25,13 @@ brittle bedrock structures.
   * Transforms drillcore measurements (alpha, beta, gamma) into structural
     measurements.
 
-* [trace-validator](https://github.com/nialov/trace-validator)
+* [fractopo](https://github.com/nialov/fractopo)
 
   * **Under development** and currently private.
-  * Validates two-dimensional fracture trace datasets.
+  * Two-dimensional fracture/lineament trace dataset validation.
+  * Branch and node extraction from trace datasets.
+  * Geometrical and topological analysis of trace datasets.
+  * Contour grid sampling of trace datasets.
 
 ---
 
@@ -45,4 +48,3 @@ brittle bedrock structures.
 [qgis3]: https://qgis.org/en/site/
 [Neovim]: https://neovim.io/
 [bash]: https://www.gnu.org/software/bash/
-

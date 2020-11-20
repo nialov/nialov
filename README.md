@@ -27,7 +27,7 @@ brittle bedrock structures.
 
 * [fractopo](https://github.com/nialov/fractopo)
 
-  * **Under development** and currently private.
+  * **Under development**
   * Two-dimensional fracture/lineament trace dataset validation.
   * Branch and node extraction from trace datasets.
   * Geometrical and topological analysis of trace datasets.

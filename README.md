@@ -42,9 +42,11 @@ brittle bedrock structures.
 [<img align="left" alt="QGIS 3" width="26px" height="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/QGIS_logo_new.svg/256px-QGIS_logo_new.svg.png" />][qgis3]
 [<img align="left" alt="Neovim" width="26px" height="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Neovim-mark.svg/256px-Neovim-mark.svg.png" />][Neovim]
 [<img align="left" alt="Bash" width="26px" height="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Bash_Logo_Colored.svg/32px-Bash_Logo_Colored.svg.png" />][bash]
+[<img align="left" alt="lua" width="26px" height="26px" src="https://www.andreas-rozek.de/Lua/Lua-Logo_128x128.png" />][lua]
 
 [python]: https://www.python.org
 [git]: https://git-scm.com
 [qgis3]: https://qgis.org/en/site/
 [Neovim]: https://neovim.io/
 [bash]: https://www.gnu.org/software/bash/
+[lua]: https://www.lua.org/

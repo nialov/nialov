@@ -7,13 +7,13 @@ brittle bedrock structures.
 
 ### Projects
 
-* [2D Fracture Analysis Toolkit for QGIS](https://github.com/nialov/fracture-analysis-kit-2d)
+* [fractopo](https://github.com/nialov/fractopo)
 
-  * Analyses and visualizes geometrical and topological parameters of fracture
-    networks.
-  * Note: Currently I've removed the QGIS plugin implementation in a new
-    version due to too many dependency conflicts. I will release a new version
-    as a 'pure' Python package (see **fractopo** below.)
+  * **Under development**
+  * Two-dimensional fracture/lineament trace dataset validation.
+  * Branch and node extraction from trace datasets.
+  * Geometrical and topological analysis of trace datasets.
+  * Contour grid sampling of trace datasets.
 
 * [geotransform](https://github.com/nialov/geotransform)
 
@@ -25,13 +25,11 @@ brittle bedrock structures.
   * Transforms drillcore measurements (alpha, beta, gamma) into structural
     measurements.
 
-* [fractopo](https://github.com/nialov/fractopo)
 
-  * **Under development**
-  * Two-dimensional fracture/lineament trace dataset validation.
-  * Branch and node extraction from trace datasets.
-  * Geometrical and topological analysis of trace datasets.
-  * Contour grid sampling of trace datasets.
+* [2D Fracture Analysis Toolkit for QGIS](https://github.com/nialov/fracture-analysis-kit-2d)
+
+  * Pending archival/deprecation.
+  * See `fractopo` above for replacement.
 
 ---
 

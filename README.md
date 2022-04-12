@@ -1,7 +1,7 @@
 ### Welcome to my GitHub page
 
-I'm a recently graduated geologist (MSc) working on tools for characterizing
-brittle bedrock structures.
+I'm a researcher and PhD student working on tools for characterizing brittle
+geological bedrock structures.
 
 <img align="right" src="https://github.com/nialov/nialov/blob/master/imgs/kb11.png">
 
@@ -9,11 +9,11 @@ brittle bedrock structures.
 
 * [fractopo](https://github.com/nialov/fractopo)
 
-  * **Under development**
-  * Two-dimensional fracture/lineament trace dataset validation.
+  * Two-dimensional fracture and lineament trace dataset validation.
   * Branch and node extraction from trace datasets.
-  * Geometrical and topological analysis of trace datasets.
+  * Geometric and topological analysis of trace datasets.
   * Contour grid sampling of trace datasets.
+  * Subsampling of trace datasets.
 
 * [geotransform](https://github.com/nialov/geotransform)
 
@@ -24,7 +24,6 @@ brittle bedrock structures.
   
   * Transforms drillcore measurements (alpha, beta, gamma) into structural
     measurements.
-
 
 * [2D Fracture Analysis Toolkit for QGIS](https://github.com/nialov/fracture-analysis-kit-2d)
 

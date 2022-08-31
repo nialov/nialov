@@ -7,28 +7,27 @@ geological bedrock structures.
 
 ### Projects
 
-* [fractopo](https://github.com/nialov/fractopo)
+-   [fractopo](https://github.com/nialov/fractopo)
 
-  * Two-dimensional fracture and lineament trace dataset validation.
-  * Branch and node extraction from trace datasets.
-  * Geometric and topological analysis of trace datasets.
-  * Contour grid sampling of trace datasets.
-  * Subsampling of trace datasets.
+    -   Two-dimensional fracture and lineament trace dataset validation.
+    -   Branch and node extraction from trace datasets.
+    -   Geometric and topological analysis of trace datasets.
+    -   Contour grid sampling of trace datasets.
+    -   Subsampling of trace datasets.
 
-* [geotransform](https://github.com/nialov/geotransform)
+-   [drillcore-transformations](https://github.com/nialov/drillcore-transformations)
 
-  * Command-line tool for switching between spatial geodata filetypes
-    (e.g. ESRI Shapefile -> Geopackage).
+    -   Transforms drillcore measurements (alpha, beta, gamma) into
+        structural measurements.
 
-* [drillcore-transformations](https://github.com/nialov/drillcore-transformations)
-  
-  * Transforms drillcore measurements (alpha, beta, gamma) into structural
-    measurements.
+-   [kapalo-py](https://github.com/nialov/fracture-analysis-kit-2d)
 
-* [2D Fracture Analysis Toolkit for QGIS](https://github.com/nialov/fracture-analysis-kit-2d)
+    -   Tool for extracting `Mobiilikapalo` observations into various
+        formats and visualizations.
 
-  * Pending archival/deprecation.
-  * See `fractopo` above for replacement.
+-   [nix-dotfiles](https://github.com/nialov/nix-dotfiles)
+
+    -   My dotfiles for `NixOS` and `home-manager`
 
 ---
 
@@ -40,6 +39,7 @@ geological bedrock structures.
 [<img align="left" alt="Neovim" width="26px" height="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Neovim-mark.svg/256px-Neovim-mark.svg.png" />][Neovim]
 [<img align="left" alt="Bash" width="26px" height="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Bash_Logo_Colored.svg/32px-Bash_Logo_Colored.svg.png" />][bash]
 [<img align="left" alt="lua" width="26px" height="26px" src="https://www.andreas-rozek.de/Lua/Lua-Logo_128x128.png" />][lua]
+[<img align="left" alt="nix" width="26px" height="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Nix_snowflake.svg/753px-Nix_snowflake.svg.png?20201208155042" />][nix]
 
 [python]: https://www.python.org
 [git]: https://git-scm.com
@@ -47,3 +47,4 @@ geological bedrock structures.
 [Neovim]: https://neovim.io/
 [bash]: https://www.gnu.org/software/bash/
 [lua]: https://www.lua.org/
+[nix]: https://nixos.org/
